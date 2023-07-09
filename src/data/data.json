@@ -132,12 +132,12 @@
   "Features": [
     {
       "icon": "fa  fa-connectdevelop",
-      "name": "Globales Netzwerk",
+      "title": "Globales Netzwerk",
       "text": " Mit Zugang zu einem weitreichenden globalen Talentpool können wir den idealen Kandidaten für jede Position finden."
     },
     {
       "icon": "fa fa-check-circle",
-      "name": "Maßgeschneiderte Lösungen",
+      "title": "Maßgeschneiderte Lösungen",
       "text": "Jedes Unternehmen ist einzigartig, und so sind auch unsere Personalstrategien."
     },
     {
