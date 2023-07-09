@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Wir haben das beste Personal",
+    "paragraph": "Personalvermittlung für Ihren Erfolg. Professionell, zuverlässig und effektiv. Vertrauen Sie auf uns, um die perfekte Arbeitsplatzlösung für Sie zu finden."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Batiste SP.ZO.O ist mehr als nur eine Personalvermittlungsagentur. Mit Leidenschaft, Innovationsgeist und Kompetenz verbinden wir Unternehmen und Talente. Unsere Dynamik, Branchenkenntnisse und das Streben nach Exzellenz machen uns zu Ihrem idealen Partner für Personalfragen.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Fachliche Expertise",
+      "Innovative Lösungen",
+      "Zielgerichtete Personalvermittlung",
+      "Passgenaue Talentauswahl"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Effektive Kommunikation",
+      "Branchenübergreifende Erfahrung",
+      "Hohe Zuverlässigkeit",
+      "Persönlicher Service"
     ]
   },
   "Gallery": [
@@ -67,118 +67,88 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-search",
+      "name": "Executive Search",
+      "text": "Unser Team identifiziert und rekrutiert Führungskräfte, die Ihr Unternehmen auf die nächste Stufe bringen."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Talent Management",
+      "text": "Wir unterstützen Sie bei der Entwicklung und Bindung Ihrer wertvollsten Mitarbeiter."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-star",
+      "name": "Outplacement-Beratung",
+      "text": "Wir helfen Ihren Mitarbeitern, neue Karrieremöglichkeiten zu finden, wenn sich Ihre Geschäftsbedürfnisse ändern."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Fortbildung",
+      "text": "Wir bieten spezielle Trainingsprogramme, um die Fähigkeiten Ihres Teams zu verbessern und zu erweitern."
+    },
+    {
+      "icon": "fa fa-exclamation",
+      "name": "Problemlösung",
+      "text": "Wir helfen Ihnen, Personalprobleme effektiv zu lösen und eine positive Arbeitsumgebung zu schaffen."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Sprachdienstleistungen",
+      "text": "Unsere Sprachexperten unterstützen Sie bei der Überwindung sprachlicher Barrieren und fördern die Kommunikation in multikulturellen Teams."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Batiste SP.ZO.O liefert auch unter schwierigen Bedingungen exzellentes Personal. Ihre Zuverlässigkeit ist bemerkenswert.",
+      "name": "Dominik Schmid DB Netz AG"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Die Qualität des Personals von Batiste SP.ZO.O übertrifft stets die Erwartungen, dank ihrer sorgfältigen Auswahlverfahren.",
+      "name": "Franz Kindling Lufthansa"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Batiste SP.ZO.O ist erstklassig in der Personalvermittlung. Immer hilfsbereit, engagiert und lösungsorientiert.",
+      "name": "Nicole Galm Nestle"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Vladi Kudenov",
+      "job": "Betriebsleiter"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "UI. AI. Jerozolimskie 85 Local 21 02-001 Warszawa",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "office.batiste@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa  fa-connectdevelop",
+      "name": "Globales Netzwerk",
+      "text": " Mit Zugang zu einem weitreichenden globalen Talentpool können wir den idealen Kandidaten für jede Position finden."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-check-circle",
+      "name": "Maßgeschneiderte Lösungen",
+      "text": "Jedes Unternehmen ist einzigartig, und so sind auch unsere Personalstrategien."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Dediziertes Team",
+      "text": "Unser engagiertes und erfahrenes Team ist stets bereit, Sie bei allen Personalfragen zu unterstützen und zu beraten."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Qualitätsgarantie",
+      "text": "Wir stehen für hohe Qualität in der Personalvermittlung und stellen sicher, dass unsere Kandidaten Ihren Anforderungen entsprechen."
     }
   ]
 }

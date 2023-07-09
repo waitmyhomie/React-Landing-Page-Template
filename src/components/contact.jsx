@@ -38,10 +38,11 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Get In Touch</h2>
+                <h2>KONTAKT AUFNEHMEN</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
+                  Bitte füllen Sie das untenstehende Formular aus, um uns eine
+                  E-Mail zu senden. Wir werden uns so schnell wie möglich bei
+                  Ihnen melden.
                 </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
@@ -99,7 +100,7 @@ export const Contact = (props) => {
               <h3>Contact Info</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Address
+                  <i className="fa fa-map-marker"></i> Addresse
                 </span>
                 {props.data ? props.data.address : "loading"}
               </p>
@@ -121,7 +122,7 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
-          <div className="col-md-12">
+          <div className="col-md-12" style={{ display: "none" }}>
             <div className="row">
               <div className="social">
                 <ul>
@@ -146,7 +147,7 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      <div id="footer">
+      <div id="footer" style={{ display: "none" }}>
         <div className="container text-center">
           <p>
             &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
