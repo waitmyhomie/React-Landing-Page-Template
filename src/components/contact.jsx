@@ -19,17 +19,15 @@ export const Contact = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_USER_ID")
-      .then(
-        (result) => {
-          console.log(result.text);
-          clearState();
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
+    emailjs.sendForm("service_s2y9fyf", "service_s2y9fyf", e.target, "cahJXcQ2CdGXHtgVkkKHN").then(
+      (result) => {
+        console.log(result.text);
+        clearState();
+      },
+      (error) => {
+        console.log(error.text);
+      }
+    );
   };
   return (
     <div>
@@ -40,9 +38,8 @@ export const Contact = (props) => {
               <div className="section-title">
                 <h2>KONTAKT AUFNEHMEN</h2>
                 <p>
-                  Bitte füllen Sie das untenstehende Formular aus, um uns eine
-                  E-Mail zu senden. Wir werden uns so schnell wie möglich bei
-                  Ihnen melden.
+                  Bitte füllen Sie das untenstehende Formular aus, um uns eine E-Mail zu senden. Wir werden uns so
+                  schnell wie möglich bei Ihnen melden.
                 </p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
