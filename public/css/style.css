@@ -207,7 +207,7 @@ a:focus,
 /* Header Section */
 .intro {
   display: table;
-  width: 100%;
+  width: 100vw;
   padding: 0;
   background: url(../img/intro-bg.jpeg) center center no-repeat;
   background-color: #e5e5e5;
