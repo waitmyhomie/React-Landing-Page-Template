@@ -15,4 +15,8 @@
   #portfolio {
     width: 100%;
   }
+
+  body {
+    font-size: 20px;
+  }
 }
