@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/batiste/static/css/main.6d5d0710.css",
-    "main.js": "/batiste/static/js/main.93657a29.js",
+    "main.js": "/batiste/static/js/main.4ae19aa6.js",
     "index.html": "/batiste/index.html",
     "main.6d5d0710.css.map": "/batiste/static/css/main.6d5d0710.css.map",
-    "main.93657a29.js.map": "/batiste/static/js/main.93657a29.js.map"
+    "main.4ae19aa6.js.map": "/batiste/static/js/main.4ae19aa6.js.map"
   },
   "entrypoints": [
     "static/css/main.6d5d0710.css",
-    "static/js/main.93657a29.js"
+    "static/js/main.4ae19aa6.js"
   ]
 }
